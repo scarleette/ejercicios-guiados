@@ -29,6 +29,7 @@ const Gradeschooler = function (edad_solicitada) {
   if (edad_solicitada >= 5 && edad_solicitada <12) {
      document.write('Segun tu edad perteneces al grupo Gradeschooler')
   }
+  
 }
 Gradeschooler(age);
 
